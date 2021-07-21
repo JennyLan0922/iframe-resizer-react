@@ -29,4 +29,4 @@ MessageData.propTypes = {
   data: PropTypes.object,
 }
 
-export default MessageData
+export default MessageData;

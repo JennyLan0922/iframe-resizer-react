@@ -29,7 +29,7 @@ export default () => {
           onMessage={onMessage}
           onResized={onResized}
           src="html/frame.content.html"
-          width="100%"
+          width="70%"
           scrolling="no"
         />
       </div>
